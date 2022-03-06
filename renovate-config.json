@@ -52,6 +52,7 @@
       "groupName": "gradle and github actions"
     }
   ],
-  "prHourlyLimit": 4,
-  "semanticCommitType": "build"
+  "prHourlyLimit": 10,
+  "semanticCommitType": "build",
+  "commitMessagePrefix": "chore(deps): "
 }
